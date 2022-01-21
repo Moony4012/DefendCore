@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb20694ce570f4546824e369b07e2e6b, type: 3}
+  m_Name: Level_1
+  m_EditorClassIdentifier: 
+  _waves1:
+    _entities:
+    - _entity: {fileID: 6875895997124944760, guid: 182565a21e3e6d64baba80a928ed0af2, type: 3}
+      _times:
+      - Min: 0
+        Max: 0.07558915
+      - Min: 0.15562472
+        Max: 0.4090707
+      - Min: 0.28901735
+        Max: 0.51133835
+      - Min: 0.3646065
+        Max: 0.71142733
+      - Min: 0.5113384
+        Max: 0.9510894
+  _waves2:
+    _entities:
+    - _entity: {fileID: 7850032510208588092, guid: 523a38565a465854b95384c11a9499b3, type: 3}
+      _times:
+      - Min: 0
+        Max: 0.58376
+      - Min: 0.38185805
+        Max: 1
+    - _entity: {fileID: 6875895997124944760, guid: 933e35875d407dc429c25f415178c034, type: 3}
+      _times:
+      - Min: 0.36498657
+        Max: 0.66819406
+      - Min: 0.29862535
+        Max: 0.72507507
+      - Min: 0.1896034
+        Max: 0.7961764
+      - Min: 0.08058145
+        Max: 0.93363875
+  _waves3:
+    _entities:
+    - _entity: {fileID: 6875895997124944760, guid: 182565a21e3e6d64baba80a928ed0af2, type: 3}
+      _times:
+      - Min: 0
+        Max: 0.40380394
+      - Min: 0.25018287
+        Max: 0.6803218
+      - Min: 0.079005115
+        Max: 0.46086317
+      - Min: 0.4548921
+        Max: 0.7884692
+      - Min: 0.3032094
+        Max: 0.63678634
+      - Min: 0.14678657
+        Max: 0.48036355
+    - _entity: {fileID: 7850032510208588092, guid: 523a38565a465854b95384c11a9499b3, type: 3}
+      _times:
+      - Min: 0.5881492
+        Max: 1
+      - Min: 0.8163862
+        Max: 0.9692758
+      - Min: 0.7198244
+        Max: 1
+      - Min: 0.67154354
+        Max: 0.89904904
+    - _entity: {fileID: 6875895997124944760, guid: 933e35875d407dc429c25f415178c034, type: 3}
+      _times:
+      - Min: 0
+        Max: 1
+      - Min: 0
+        Max: 0.8507681
+      - Min: 0
+        Max: 0.69275784
+      - Min: 0.118502125
+        Max: 0.5654719
+      - Min: 0.24650478
+        Max: 0.74087507
+      - Min: 0.36024648
+        Max: 0.92571837
+      - Min: 0.4345281
+        Max: 1
